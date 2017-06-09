@@ -1,0 +1,17 @@
+c:\users\sudo\documents\visual studio 2015\Projects\OOP-LV5-kalkulator\OOP-LV5-kalkulator\bin\Debug\OOP-LV5-kalkulator.exe.config
+c:\users\sudo\documents\visual studio 2015\Projects\OOP-LV5-kalkulator\OOP-LV5-kalkulator\obj\Debug\OOP-LV5-kalkulator.csprojResolveAssemblyReference.cache
+c:\users\sudo\documents\visual studio 2015\Projects\OOP-LV5-kalkulator\OOP-LV5-kalkulator\obj\Debug\OOP_LV5_kalkulator.Form1.resources
+c:\users\sudo\documents\visual studio 2015\Projects\OOP-LV5-kalkulator\OOP-LV5-kalkulator\obj\Debug\OOP_LV5_kalkulator.Properties.Resources.resources
+c:\users\sudo\documents\visual studio 2015\Projects\OOP-LV5-kalkulator\OOP-LV5-kalkulator\obj\Debug\OOP-LV5-kalkulator.csproj.GenerateResource.Cache
+c:\users\sudo\documents\visual studio 2015\Projects\OOP-LV5-kalkulator\OOP-LV5-kalkulator\bin\Debug\OOP-LV5-kalkulator.exe
+c:\users\sudo\documents\visual studio 2015\Projects\OOP-LV5-kalkulator\OOP-LV5-kalkulator\bin\Debug\OOP-LV5-kalkulator.pdb
+c:\users\sudo\documents\visual studio 2015\Projects\OOP-LV5-kalkulator\OOP-LV5-kalkulator\bin\Debug\IronPython.dll
+c:\users\sudo\documents\visual studio 2015\Projects\OOP-LV5-kalkulator\OOP-LV5-kalkulator\bin\Debug\Microsoft.Scripting.dll
+c:\users\sudo\documents\visual studio 2015\Projects\OOP-LV5-kalkulator\OOP-LV5-kalkulator\bin\Debug\Microsoft.Dynamic.dll
+c:\users\sudo\documents\visual studio 2015\Projects\OOP-LV5-kalkulator\OOP-LV5-kalkulator\bin\Debug\Microsoft.Scripting.Metadata.dll
+c:\users\sudo\documents\visual studio 2015\Projects\OOP-LV5-kalkulator\OOP-LV5-kalkulator\bin\Debug\IronPython.xml
+c:\users\sudo\documents\visual studio 2015\Projects\OOP-LV5-kalkulator\OOP-LV5-kalkulator\bin\Debug\Microsoft.Scripting.xml
+c:\users\sudo\documents\visual studio 2015\Projects\OOP-LV5-kalkulator\OOP-LV5-kalkulator\bin\Debug\Microsoft.Dynamic.xml
+c:\users\sudo\documents\visual studio 2015\Projects\OOP-LV5-kalkulator\OOP-LV5-kalkulator\bin\Debug\Microsoft.Scripting.Metadata.xml
+c:\users\sudo\documents\visual studio 2015\Projects\OOP-LV5-kalkulator\OOP-LV5-kalkulator\obj\Debug\OOP-LV5-kalkulator.exe
+c:\users\sudo\documents\visual studio 2015\Projects\OOP-LV5-kalkulator\OOP-LV5-kalkulator\obj\Debug\OOP-LV5-kalkulator.pdb
